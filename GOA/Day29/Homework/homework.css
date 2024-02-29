@@ -1,0 +1,15 @@
+body { 
+    background-image: url("goa_clean_background.png"); 
+}
+h1 {
+    color: aquamarine;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+h6{
+    position: relative;
+    color:aliceblue;
+}
